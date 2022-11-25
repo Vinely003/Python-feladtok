@@ -1,0 +1,6 @@
+Kötbér kimutatásCég neve: Vince 
+Projekt értéke: 1000000 Ft
+Késedelmes napok száma: 2
+Kötbér összege: 100000.0 Ft
+
+Kelt: Szeged, 2022.11.08

@@ -1,0 +1,8 @@
+Számításos lapFelhasználó neve: Vince 
+a oldal: 12 m
+b oldal: 9 m
+c oldal: 15 m
+Kerület: 36 m
+Terület: 54.0 m2
+
+Kelt: Szeged, 2022.11.08
